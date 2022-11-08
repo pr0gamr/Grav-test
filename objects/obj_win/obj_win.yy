@@ -24,7 +24,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_grav_block","path":"objects/obj_grav_block/obj_grav_block.yy",},},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
