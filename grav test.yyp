@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "grav test",
   "resources": [
+    {"id":{"name":"Room6","path":"rooms/Room6/Room6.yy",},"order":5,},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},"order":2,},
     {"id":{"name":"obj_win","path":"objects/obj_win/obj_win.yy",},"order":3,},
     {"id":{"name":"obj_game_reset","path":"objects/obj_game_reset/obj_game_reset.yy",},"order":2,},
@@ -38,6 +39,7 @@
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
+    {"roomId":{"name":"Room6","path":"rooms/Room6/Room6.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":11,},

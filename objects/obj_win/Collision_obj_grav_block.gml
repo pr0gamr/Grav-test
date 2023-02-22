@@ -1,6 +1,8 @@
-/// @DnDAction : YoYo Games.Rooms.Go_To_Room
-/// @DnDVersion : 1
-/// @DnDHash : 46B42C27
-/// @DnDArgument : "room" "Room4"
-/// @DnDSaveInfo : "room" "Room4"
+if(room==Room3)
+{
+room_goto(Room6)	
+}
+else
+{
 room_goto(Room4);
+}
