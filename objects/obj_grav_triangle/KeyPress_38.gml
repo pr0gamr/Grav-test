@@ -1,3 +1,11 @@
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 7D6999D7
+/// @DnDArgument : "spriteind" "spr_basic_triangle"
+/// @DnDSaveInfo : "spriteind" "spr_basic_triangle"
+sprite_index = spr_basic_triangle;
+image_index = 0;
+
 /// @DnDAction : YoYo Games.Movement.Set_Gravity_Direction
 /// @DnDVersion : 1
 /// @DnDHash : 36D3E8D6

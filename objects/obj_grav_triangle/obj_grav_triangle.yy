@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_grav_block",
+  "name": "obj_grav_triangle",
   "spriteId": {
     "name": "spr_basic_box",
     "path": "sprites/spr_basic_box/spr_basic_box.yy",
